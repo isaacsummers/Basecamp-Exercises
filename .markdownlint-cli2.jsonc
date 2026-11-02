@@ -1,0 +1,10 @@
+{
+  "frontMatter": "^---\\n[\\s\\S]*?\\n---\\s*\\n",
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD041": false,
+    "MD033": false,
+    "MD024": false
+  }
+}
